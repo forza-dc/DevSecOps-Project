@@ -1,4 +1,5 @@
 This is an excellent project to practice DevOps skills with a focus on application security. 
+
 Special Thanks and Credit to N4si @ https://github.com/N4si/DevSecOps-Project.git
 
 <div align="center">
